@@ -39,3 +39,7 @@ Repeat the step to create the `/random` slash command
 Once done, all your commands will look like below
 
 ![image](docs/commands.png)
+
+
+## All Set
+Now you can integrate the app in your slack channel and execute `/define man flu` or `/random` to interact with Urban Dictionary
